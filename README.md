@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Shukla</h1>
-<h3 align="center">A passionate junior backend developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/cvam_1" target="blank"><img src="https://img.shields.io/twitter/follow/cvam_1?logo=twitter&style=for-the-badge" alt="cvam_1" /></a> </p>
 
